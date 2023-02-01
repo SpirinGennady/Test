@@ -23,3 +23,6 @@
 
 ![tree](branched_tree.png)
 
+`У меня тоже получилось!`
+
+![mi_tree](mi_tree.png)
