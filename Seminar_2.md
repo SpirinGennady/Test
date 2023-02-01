@@ -10,6 +10,7 @@
 
 * *git log --graph* - команда, позволяющая увидеть общее дерево коммитов со всеми ветвями.
 
+* *git config --global user.email "`new_email`"* - команда замены текущего email на новый `new_email`
 
 ## Branch merging
 
