@@ -19,5 +19,6 @@
 
 ## Branch images
 
+`Должно получится ветвистое дерево`:
 
-
+![tree](branched_tree.png)
