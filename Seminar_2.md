@@ -8,6 +8,9 @@
 
 ## Branch information
 
+* *git log --graph* - команда, позволяющая увидеть общее дерево коммитов со всеми ветвями.
+
+
 ## Branch merging
 
 ## Conflicts
