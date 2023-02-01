@@ -18,4 +18,7 @@
 * *git branch -d `branch_name`* - команда удаления ветки `branch_name`;
 
 ## Branch images
-![branched tree](branched tree.png)
+
+`Должно получится ветвистое дерево`:
+
+![tree](branched_tree.png)
