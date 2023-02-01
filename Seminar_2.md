@@ -13,5 +13,6 @@
 * *git config --global user.email "`new_email`"* - команда замены текущего email на новый `new_email`
 
 ## Branch merging
+* *git branch -d `branch_name`* - команда удаления ветки `branch_name`;
 
 ## Conflicts
