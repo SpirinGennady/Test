@@ -15,4 +15,8 @@
 ## Branch merging
 * *git branch -d `branch_name`* - команда удаления ветки `branch_name`;
 
+* *git merge `branch_name`* - команда, сливающая текущую ветку с `branch_name`
+
+
+
 ## Conflicts
