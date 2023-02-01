@@ -17,3 +17,5 @@
 * *git merge `branch_name`* - команда, сливающая текущую ветку с `branch_name`
 * *git branch -d `branch_name`* - команда удаления ветки `branch_name`;
 
+## Branch images
+
